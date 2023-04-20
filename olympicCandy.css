@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Garamond;
+    background-color: #Fffcff;
+  }
+  header {
+    width: 100%;
+    height: 150px;
+    background-image: url("https://thumbs.dreamstime.com/b/many-different-candies-closeup-151118002.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h1 {
+    color: white;
+    font-size: 48px;
+    text-shadow: 2px 2px #000000;
+  }
+  section {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .product img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  .product h2 {
+    font-size: 24px;
+    margin: 0;
+  }
+  .product p {
+    margin: 0;
+    font-size: 18px;
+  }
+  .center
+  {
+    display: grid;
+    place-items: center
+  }
