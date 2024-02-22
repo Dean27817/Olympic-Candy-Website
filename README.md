@@ -1,0 +1,1 @@
+this is a simple website that I wrote for a technical writing class. I had too much time on my hands and had just taken a web dev class. I don't remember any of this that I wrote, but I belive that it should be self explanatory.
